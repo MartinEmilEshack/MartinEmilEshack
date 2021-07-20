@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Facebook][facebook-shield]][facebook-url]
 
 <!--
 **MartinEmilEshack/MartinEmilEshack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- URL variables -->
 [linkedin-url]: https://www.linkedin.com/in/martin-emil/
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=social&logo=linkedin&colorB=blue
+
+[facebook-url]: https://www.facebook.com/Martin.Emil.Eshack/
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=social&logo=facebook&colorB=blue
+
